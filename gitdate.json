@@ -1,8 +1,9 @@
 {
     "name": "Muzzy",
-    "things": ["First","Second","Third"],
-    "nested": {
-        "nestedname": "My Nest",
-        "nestedthings": ["Nest 1", "Nest 2", "Nest 3"]
-    }
+    "languages": ["Java","Javascript","SQL"],
+    "technologies": ["Angular", "Spring", "Postgres"],
+    "repos": [
+        {"name": "Gitdate Profile","description": "My Gitdate Profile", "url": "https://github.com/mmuzio/gitdatetest"},
+        {"name": "Gitdate","description": "Gitdate Source Code", "url": "https://github.com/mmuzio/gitdate"}
+    ]
 }
