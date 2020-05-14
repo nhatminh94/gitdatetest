@@ -1,0 +1,8 @@
+{
+    "name": "Muzzy",
+    "things": ["First","Second","Third"],
+    "nested": {
+        "nestedname": "My Nest",
+        "nestedthings": ["Nest 1", "Nest 2", "Nest 3"]
+    }
+}
