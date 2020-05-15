@@ -1,7 +1,7 @@
 {
     "name": "Java Wizard",
-    "languages": ["Java","Javascript","SQL"],
-    "technologies": ["Angular", "Spring", "Postgres"],
+    "languages": ["Java","Javascriptwerwerwe","SQL"],
+    "technologies": ["Awerwerwngular", "Spwerwerewrring", "Postgres"],
     "repos": [
         {"name": "Gitdate Profile","description": "My Gitdate Profile", "url": "gitdatetest"},
         {"name": "Gitdate","description": "Gitdate Source Code", "url": "gitdate"}
